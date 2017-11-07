@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668213924489",
+    "firebase_url": "https://o-biker.firebaseio.com",
+    "project_id": "o-biker",
+    "storage_bucket": "o-biker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668213924489:android:0248d06d43d91316",
+        "android_client_info": {
+          "package_name": "com.onzenaldosoft.obiker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668213924489-4a5e1li8l6vru9llt65t7avbag8kras7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onzenaldosoft.obiker",
+            "certificate_hash": "911203a08eff58bd2c9a7fbf7d574bfba75a668f"
+          }
+        },
+        {
+          "client_id": "668213924489-25rv7cq8auuhg90hlv6raui9t9dtsn6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb0n2sA8WRx04ThYrqDFlAg3Ox6zR69I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668213924489-25rv7cq8auuhg90hlv6raui9t9dtsn6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
